@@ -4,14 +4,17 @@
     "message": "success",
     "data": [
       {
+        "location": "创意园",
         "longitude": 123.321,
         "latitude": 123.321
       },
       {
+        "location": "意园创",
         "longitude": 124.321,
         "latitude": 124.321
       },
       {
+        "location": "园创意",
         "longitude": 125.321,
         "latitude": 125.321
       }
