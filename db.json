@@ -1,0 +1,20 @@
+{
+  "points": {
+    "code": 200,
+    "message": "success",
+    "data": [
+      {
+        "longitude": 123.321,
+        "latitude": 123.321
+      },
+      {
+        "longitude": 124.321,
+        "latitude": 124.321
+      },
+      {
+        "longitude": 125.321,
+        "latitude": 125.321
+      }
+    ]
+  }
+}
